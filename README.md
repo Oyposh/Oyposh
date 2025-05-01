@@ -8,12 +8,12 @@
 
 <!-- STATS -->
 <div align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Oyposh1607&show_icons=true&count_private=true&hide_border=true&title_color=003366&icon_color=003366&text_color=c9d1d9&bg_color=0d1117" alt="Oyposh1607 GitHub Stats" />
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyposh1607&layout=compact&hide_border=true&title_color=003366&text_color=003366&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Oyposh&show_icons=true&count_private=true&hide_border=true&title_color=003366&icon_color=003366&text_color=c9d1d9&bg_color=0d1117" alt="Oyposh GitHub Stats" />
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyposh&layout=compact&hide_border=true&title_color=003366&text_color=003366&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oyposh1607&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=003366&fire=003366&currStreakLabel=003366" alt="Oyposh1607 Streak" />
+  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oyposh1607&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=003366&fire=003366&currStreakLabel=003366" alt="Oyposh Streak" />
 </div>
 
 ---
