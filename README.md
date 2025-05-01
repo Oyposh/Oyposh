@@ -41,7 +41,7 @@
 
 <div align="center">
   <p><b>👥 Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/Oyposh1607/count.svg" />
+  <img src="https://profile-counter.glitch.me/Oyposh/count.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=footer"/>
