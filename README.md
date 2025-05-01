@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003366&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Oyposh%20Pahridinova;MY+SPECIALIZATION+===+BACKEND+DEVELOPMENT;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oyposh1607&theme=react-dark&hide_border=true&area=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oyposh&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <!-- STATS -->
